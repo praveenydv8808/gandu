@@ -1,0 +1,20 @@
+1693767332600	Rename resource 'index.htl'
+1693767347887	Delete element
+1693842785001	Rename resource 'login.jsp'
+1693845103835	Copy file
+1693846687927	Delete element
+1693849761638	Copy file
+1693849777956	Rename resource 'todo.jsp'
+1693944912241	Copy file
+1693946840286	Extract local variable 'username'
+1694034735620	Copy file
+1694068993273	Copy file
+1694069010500	Copy file
+1694072245200	Delete element
+1694072352981	Delete element
+1694072364547	Delete element
+1694079177453	Extract method 'getLoggedInUsername'
+1694079550269	Extract local variable 'username'
+1694079562348	Extract local variable 'password'
+1694079659408	Extract method 'createNewUser'
+1694244303075	Copy compilation unit
